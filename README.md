@@ -1,3 +1,3 @@
 # WhiteHatJr-Clone
 This is a clone of https://www.whitehatjr.com/ built using HTML, CSS, JavaScript.<br>
-It is live at https://alishasingh06.github.io/WhiteHatJr-Clone/.
+It is deployed live at https://serene-pony-b06beb.netlify.app/ on Netlify.
